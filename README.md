@@ -9,6 +9,8 @@ Pandas: Data manipulation and analysis library in Python, used for importing, cl
 Seaborn: Data visualization library in Python, used for creating interactive visualization.<br>
 Matplotlib: Data visualization library in Python, used for creating customizable plots and charts.<br>
 Jupyter Notebook: IDE used for Exploratory Data Analysis.<br>
+PowerBI: PowerBI desktop is used for creating analysis visualizations in a sigle dashboard for better presentation purposes.
+
 
 # Key Findings:
 * The dataset contains a total of  entries, consisting of 5377 movies and 2410 TV shows.<br>
