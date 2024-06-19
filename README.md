@@ -33,8 +33,6 @@ TV-Y7     271 <br>
 # Conclusion:
 This exploratory data analysis of the Netflix dataset offers valuable insights into the distribution, characteristics, and trends of Netflix content. These findings can help us understand viewer preferences better, optimize content production strategies, and guide future analytical efforts.
 
-
-
-
+![Screenshot (133)](https://github.com/anu3101/Exploratory-Data-Analysis-on-Netflix-Data/assets/95866010/69bfd5bd-2a58-4300-ab4e-e100a73fdf8e)
 
 
